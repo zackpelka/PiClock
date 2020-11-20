@@ -8,8 +8,4 @@ Use only one autostart method.
 
 Autostart Method (Found to be the most successful)
 
-cd /home/pi/PiClock
-chmod +x PiClock.desktop
-ln PiClock.desktop ~/Desktop
-mkdir ~/.config/autostart
-ln PiClock.desktop ~/.config/autostart
+cd /home/pi/PiClock && chmod +x PiClock.desktop && ln PiClock.desktop ~/Desktop && mkdir ~/.config/autostart && ln PiClock.desktop ~/.config/autostart
