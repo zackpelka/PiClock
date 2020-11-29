@@ -2,7 +2,7 @@
 Raspberry Pi Modifications
 --------------------------
 
-Setting the clock to auto start. 
+Setting the "PiClock" to auto start. 
 
 At this point the clock will only start when you manually start it, as described in the Run It section.
 Use only one autostart method. KISS method
